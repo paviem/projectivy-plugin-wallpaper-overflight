@@ -1,75 +1,62 @@
 [
     {
+        "location": "Unknown",
+        "title": "Journey to the Edge of the Observable Universe",
+        "url_1080p": "https://edyoudo.com/pluginfile.php/26/mod_label/intro/Journey%20to%20the%20edge%20of%20the%20Observable%20Universe.mp4",
+        "url_4k": "https://edyoudo.com/pluginfile.php/26/mod_label/intro/Journey%20to%20the%20edge%20of%20the%20Observable%20Universe.mp4"
+    },
+    {
         "location": "China",
         "title": "Mountains",
         "url_1080p": "https://cdn.pixabay.com/video/2023/03/21/155546-810170148_large.mp4",
-        "url_1080p_hdr": "https://cdn.pixabay.com/video/2023/03/21/155546-810170148_large.mp4",
-        "url_4k": "https://cdn.pixabay.com/video/2023/03/21/155546-810170148_large.mp4",
-        "url_4k_hdr": "https://cdn.pixabay.com/video/2023/03/21/155546-810170148_large.mp4"
+        "url_4k": "https://cdn.pixabay.com/video/2023/03/21/155546-810170148_large.mp4"
     },
     {
         "location": "Unknown",
         "title": "Video 1",
         "url_1080p": "https://cdn.pixabay.com/video/2024/06/14/216696_large.mp4",
-        "url_1080p_hdr": "https://cdn.pixabay.com/video/2024/06/14/216696_large.mp4",
-        "url_4k": "https://cdn.pixabay.com/video/2024/06/14/216696_large.mp4",
-        "url_4k_hdr": "https://cdn.pixabay.com/video/2024/06/14/216696_large.mp4"
+        "url_4k": "https://cdn.pixabay.com/video/2024/06/14/216696_large.mp4"
     },
     {
         "location": "Unknown",
         "title": "Video 2",
         "url_1080p": "https://cdn.pixabay.com/video/2019/02/28/21723-320725678_large.mp4",
-        "url_1080p_hdr": "https://cdn.pixabay.com/video/2019/02/28/21723-320725678_large.mp4",
-        "url_4k": "https://cdn.pixabay.com/video/2019/02/28/21723-320725678_large.mp4",
-        "url_4k_hdr": "https://cdn.pixabay.com/video/2019/02/28/21723-320725678_large.mp4"
+        "url_4k": "https://cdn.pixabay.com/video/2019/02/28/21723-320725678_large.mp4"
     },
     {
         "location": "Unknown",
         "title": "Video 3",
         "url_1080p": "https://cdn.pixabay.com/video/2022/03/19/111244-690770621_large.mp4",
-        "url_1080p_hdr": "https://cdn.pixabay.com/video/2022/03/19/111244-690770621_large.mp4",
-        "url_4k": "https://cdn.pixabay.com/video/2022/03/19/111244-690770621_large.mp4",
-        "url_4k_hdr": "https://cdn.pixabay.com/video/2022/03/19/111244-690770621_large.mp4"
+        "url_4k": "https://cdn.pixabay.com/video/2022/03/19/111244-690770621_large.mp4"
     },
     {
         "location": "Unknown",
         "title": "Video 4",
         "url_1080p": "https://cdn.pixabay.com/video/2022/01/24/105542-670503037_large.mp4",
-        "url_1080p_hdr": "https://cdn.pixabay.com/video/2022/01/24/105542-670503037_large.mp4",
-        "url_4k": "https://cdn.pixabay.com/video/2022/01/24/105542-670503037_large.mp4",
-        "url_4k_hdr": "https://cdn.pixabay.com/video/2022/01/24/105542-670503037_large.mp4"
+        "url_4k": "https://cdn.pixabay.com/video/2022/01/24/105542-670503037_large.mp4"
     },
     {
         "location": "Unknown",
         "title": "Video 5",
         "url_1080p": "https://cdn.pixabay.com/video/2023/01/04/145320-786403437_large.mp4",
-        "url_1080p_hdr": "https://cdn.pixabay.com/video/2023/01/04/145320-786403437_large.mp4",
-        "url_4k": "https://cdn.pixabay.com/video/2023/01/04/145320-786403437_large.mp4",
-        "url_4k_hdr": "https://cdn.pixabay.com/video/2023/01/04/145320-786403437_large.mp4"
+        "url_4k": "https://cdn.pixabay.com/video/2023/01/04/145320-786403437_large.mp4"
     },
     {
         "location": "Unknown",
         "title": "Video 6",
         "url_1080p": "https://cdn.pixabay.com/video/2024/07/16/221469_large.mp4",
-        "url_1080p_hdr": "https://cdn.pixabay.com/video/2024/07/16/221469_large.mp4",
-        "url_4k": "https://cdn.pixabay.com/video/2024/07/16/221469_large.mp4",
-        "url_4k_hdr": "https://cdn.pixabay.com/video/2024/07/16/221469_large.mp4"
+        "url_4k": "https://cdn.pixabay.com/video/2024/07/16/221469_large.mp4"
     },
     {
         "location": "Unknown",
         "title": "Video 7",
         "url_1080p": "https://cdn.pixabay.com/video/2023/11/21/190063-887019481_large.mp4",
-        "url_1080p_hdr": "https://cdn.pixabay.com/video/2023/11/21/190063-887019481_large.mp4",
-        "url_4k": "https://cdn.pixabay.com/video/2023/11/21/190063-887019481_large.mp4",
-        "url_4k_hdr": "https://cdn.pixabay.com/video/2023/11/21/190063-887019481_large.mp4"
+        "url_4k": "https://cdn.pixabay.com/video/2023/11/21/190063-887019481_large.mp4"
     },
     {
         "location": "Unknown",
         "title": "Video 8",
         "url_1080p": "https://cdn.pixabay.com/video/2022/08/10/127477-743515475_large.mp4",
-        "url_1080p_hdr": "https://cdn.pixabay.com/video/2022/08/10/127477-743515475_large.mp4",
-        "url_4k": "https://cdn.pixabay.com/video/2022/08/10/127477-743515475_large.mp4",
-        "url_4k_hdr": "https://cdn.pixabay.com/video/2022/08/10/127477-743515475_large.mp4"
+        "url_4k": "https://cdn.pixabay.com/video/2022/08/10/127477-743515475_large.mp4"
     }
 ]
-
